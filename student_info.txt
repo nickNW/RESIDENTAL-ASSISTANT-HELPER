@@ -1,0 +1,22 @@
+U00000000	Preston	Kade	MAD-300A	Kade is doing well 	#gym #running 	empty
+U00000001	Mccormick	Kieran	MAD-300B	He said classes are easy	#computer science #gym	empty
+U00000002	Wilkerson	Hugh	MAD-300C	He is struggling with calc	#computer science #video games	empty
+U00000003	Mcmillan	Kaylie	MAD-301A	empty	#volenterring 	empty
+U00000004	Conrad	John	MAD-301B	empty	#chemical enginnering #science 	empty
+U00000005	Lawrence	Lincoln	MAD-301C	she wants to do research	#sorority 	empty
+U00000006	Levine	Libby	MAD-301D	empty	#dancing #spanish 	Stir The Pot
+U00000007	Pena	Sadie	MAD-302A	empty	#mechanical engneering 	empty
+U00000008	Hayden	Jadyn	MAD-302B	empty	#mechanical engneering 	empty
+U00000009	Gamble	Jaylin	MAD-302C	He said he is doing ok 	#mechanical engneering #video games	empty
+U00000010	Johns	Sienna	MAD-302D	She said that she misses her family 	#mechanical engneering #video games	empty
+U00000011	Glass	Boston	MAD-303A	empty	#spanish 	empty
+U00000012	Hebert	Ingrid	MAD-303B	empty	#video games 	empty
+U00000013	Solis	Esmeralda	MAD-303C	Esmeralda said that her classes are really hard 	#korean 	Check in about involvements
+U00000014	Williamson	Genesis	MAD-303D	empty	#russian #making friends 	Check in about details
+U00000015	Wilkerson	Ruby	MAD-304A	empty	#chinese 	Check in about classes/progress
+U00000016	Hensley	Naomi	MAD-304B	She is studying a lot 	#japanese	empty
+U00000017	Norris	Hayden	MAD-304C	empty	#graduating 	empty
+U00000018	Austin	Alexis	MAD-304D	empty	#making friends #japanese	Check in about details
+U00000019	Wong	Davin	MAD-305A	he said that he wants to make friends	#accounting 	Check in about details
+U00000020	Hinton	Kathy	MAD-305B	empty	#chemical enginnering #making friends 	empty
+U00000021	Stevens	Beckham	MAD-305C	empty	#wellness 	Check in about details	
